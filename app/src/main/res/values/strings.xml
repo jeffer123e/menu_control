@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">menu_navegacion</string>
+    <string name="btn_crear">Crear</string>
+    <string name="btn_escribir">Escribir</string>
+    <string name="btn_actualizar">Actualizar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="tv_menu">Menu</string>
+    <string name="tv_bienvenidos">Bienvenidos</string>
+    <string name="tv_mensaje">Deja volar tu imaginacio</string>
+    <string name="btn_regresar">Regresar</string>
+</resources>
